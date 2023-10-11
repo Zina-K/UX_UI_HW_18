@@ -4,6 +4,8 @@ body {
 header {
   background-color: #FFD7F4;
   padding: 15px;
+  padding-left: 40px;
+  padding-right: 40px;
 }
 #logo {
   width: 80px;
@@ -56,6 +58,8 @@ footer {
   background-color: #fccdef;
   padding: 5px;
   color: black;
+  padding-right: 40px;
+  padding-left: 40px;
 }
 footer ul {
   list-style: none;
